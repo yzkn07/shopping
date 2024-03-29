@@ -99,7 +99,7 @@ ul a:hover {
     grid-column-gap: 50px;
     grid-row-gap: 0px;
     padding: 50px 100px;
-    border: 1px solid black;
+    border-bottom: 1px solid black;
 }
 .image-side{
     grid-area: 1 / 1 / 2 / 2 ;
